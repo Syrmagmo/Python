@@ -2,7 +2,7 @@ usuario = input("Nome de usuario: ")
 senha = input("senha do usuario: ")
 
 usuario_bd = "Lincoln"
-senha_bd = "123456"
+senha_bd = "1234567"
 
 if usuario_bd == usuario and senha_bd == senha:
     print("Você esta logado no sistema")
