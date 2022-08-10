@@ -14,9 +14,9 @@ num2 = input("Digite outro numero: ")
 
 #Maneira correta
 
-try:
+try:  #Trocamos o IF para try, para evitar possiveis erros
     num1 = float(num1)
     num2 = float(num2)
     print(num1 + num2)
-except:
+except:  #e o else por except, tambem para evitar erro
     print("Digite apenas numeros, obrigado!")
