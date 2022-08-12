@@ -60,4 +60,4 @@ while True:
     elif operador == '*':
         print(num_1 * num_2)
     else:
-        print("Operador invalido")
+        print("Operador invalido!")
