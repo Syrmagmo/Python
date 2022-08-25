@@ -59,4 +59,4 @@ lista2.pop()
 print(lista1)
 print(lista2)
 
-#print(lista3)
+print(lista3)
