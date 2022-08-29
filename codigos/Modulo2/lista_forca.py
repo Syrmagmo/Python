@@ -13,7 +13,7 @@ while True:
     letra = input("Digite uma letra: ")
     
     if len(letra) > 1:
-        print("Ahhh isso não vale, Digite apenas uma letra.")
+        print("Ahhhh isso não vale, Digite apenas uma letra.")
         continue
     
     digitadas.append(letra)  #Para armazenar dados digitados pelo usuario
