@@ -1,5 +1,5 @@
 """ 
-Gerador de cpf
+Gerador de cpf!
 """
 from random import randint
 numero = randint(1000000000, 9999999999)
